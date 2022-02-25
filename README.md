@@ -27,13 +27,13 @@
   <br />
   ScreenShots of the App 🧟‍♀️:-
   <div display="flex">
-    <img src="ss1.png" width="200px"></img>
-    <img src="ss3.png" width="200px"></img>
-    <img src="ss4.png" width="200px"></img>
-    <img src="ss5.png" width="200px"></img>
-    <img src="ss6.png" width="200px"></img>
-    <img src="ss7.png" width="200px"></img>
-    <img src="ss9.png" width="200px"></img>
+    <img src="ss1.png" width="300px"></img>
+    <img src="ss3.png" width="300px"></img>
+    <img src="ss4.png" width="300px"></img>
+    <img src="ss5.png" width="300px"></img>
+    <img src="ss6.png" width="300px"></img>
+    <img src="ss7.png" width="300px"></img>
+    <img src="ss9.png" width="300px"></img>
   </div>
   
   <h1>
