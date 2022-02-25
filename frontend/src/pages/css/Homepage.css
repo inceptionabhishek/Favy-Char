@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&family=Moon+Dance&family=Neonderthaw&family=Roboto:ital@1&display=swap');
+
+
+.demo-content{
+    display: flex;
+    justify-content: center;
+}
+.ExampleImage{
+    width: 50%;
+    height: 50%;
+    padding: 3px 3px 3px 3px;
+    margin: 3px 3px 3px 3px;
+    align-items: center;
+
+        border: 3px solid #ccc;
+        background: #eee;
+        margin: auto;
+        padding: 15px 10px;
+}
+
+.TextJSON{
+font-family: 'Irish Grover', cursive;
+font-family: 'Moon Dance', cursive;
+font-family: 'Neonderthaw', cursive;
+font-family: 'Roboto', sans-serif;
+}
+
